@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nihal Singh
+# 👋 Hi, I'm Nihal kumar Singh
 ![](https://komarev.com/ghpvc/?username=nihalsingh571&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 🎯 Aspiring Full Stack Developer | DevOps Enthusiast | Java & React Developer
