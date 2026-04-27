@@ -8,9 +8,9 @@
 
 🎓 B.Tech in Computer Science & Engineering (2022–2026) at Lovely Professional University, Punjab
 
-🌱 Currently working on backend architecture, API security, and CI/CD automation
+🌱 Currently working on Frontend and backend architecture, API security, and DevOps
 
-🧩 Experienced with Java, Node.js, React, Docker, and AWS
+🧩 Experienced with Java, Node.js, React, Docker, Kubernetes and AWS
 
 💡 Enthusiastic about AI-powered applications, scalable APIs, and system optimization
 
@@ -23,7 +23,7 @@
 🧰 Tech Stack
 
 Languages:
-Java • JavaScript • SQL
+Java • JavaScript • SQL • Python
 
 Frontend:
 HTML • CSS • Bootstrap • React.js
