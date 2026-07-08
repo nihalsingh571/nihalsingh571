@@ -32,7 +32,7 @@ Backend:
 Node.js • Express.js • RESTful APIs • JWT
 
 DevOps & Tools:
-Docker • AWS • Linux • Jenkins • Git • Postman
+Docker • AWS • Linux • Jenkins • Git • Postman • Terraform • Nagios • Prometheus • Grafana • Kubernetes 
 
 Databases:
 MySQL • MongoDB
